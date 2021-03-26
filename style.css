@@ -1,0 +1,39 @@
+#heading{
+  background-color: blue;
+}
+
+#headingText{
+  color: yellow;
+}
+
+#askForCity{
+  background-color: lightblue;
+}
+
+#askForCityText{
+  color: white;
+}
+
+#container{
+  background-color: lightgrey;
+}
+
+#weather{
+  color: red;
+}
+
+#weatherDescription{
+  color: orange;
+}
+
+#degrees{
+  color: orangered;
+}
+
+#humidity{
+  color: greenyellow;
+}
+
+#windSpeed{
+  color: lightskyblue;
+}
